@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "name": "Event 1",
+      "date": "2024-04-01",
+      "location": "Stadium A"
+    },
+    {
+      "id": 2,
+      "name": "Event 2",
+      "date": "2024-04-05",
+      "location": "Stadium B"
+    }
+  ]
+  
